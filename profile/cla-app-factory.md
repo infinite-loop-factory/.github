@@ -11,7 +11,6 @@
 
 ## 3. 조직 구성원 의무
 
-- Contributor는 반드시 조직 구성원이어야 하며, GitHub Teams 비용을 매달 15일 Organization owner에게 자동이체해야 합니다. 이체가 1회 이상 실패할 경우, organization owner는 Contributor의 조직 권한을 회수하고 레포지토리 접근을 차단할 권리를 가집니다.
 - Contributor가 연간 1개 이상의 커밋 기록이 없을 경우, Organization owner는 Contributor의 조직 권한을 회수하고 레포지토리 접근을 차단할 권리를 가집니다.
 
 ## 4. Fork 제한 및 외부 배포
