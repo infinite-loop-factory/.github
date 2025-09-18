@@ -11,7 +11,7 @@
 
 ## 3. 조직 구성원 의무
 
-- Contributor가 연간 1개 이상의 커밋 기록이 없을 경우, Organization owner는 Contributor의 조직 권한을 회수하고 레포지토리 접근을 차단할 권리를 가집니다.
+- Contributor가 월간 1개 이상의 커밋 기록이 없을 경우, Organization owner는 Contributor의 조직 권한을 회수하고 레포지토리 접근을 차단할 권리를 가집니다.
 
 ## 4. Fork 제한 및 외부 배포
 
